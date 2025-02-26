@@ -41,3 +41,14 @@ EdTech | Career Development
 - npm
 - MongoDB
 - Streamlit
+
+
+
+### Tech Stack
+
+Frontend: React.js, TypeScript, Tailwind CSS
+Backend: Node.js, Express.js
+Database: MongoDB
+AI/ML: Meta Llama-3.2 LLM for generating roadmaps, MCQs, and interview simulations
+Additional Tools: Streamlit for UI in AI-based features, Shadcn for UI design
+
